@@ -1,1 +1,1 @@
-# Curso-L-gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript
+# Curso Lógica de programação mergulhe em programação com JavaScript
